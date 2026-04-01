@@ -4,6 +4,7 @@ import NewBooks from "../component/homepage/NewBooks";
 import Featured from "../component/homepage/Featured";
 import Offer from "../component/homepage/Offer";
 import Newsletter from "../component/homepage/Newsletter";
+import Ebook from "../component/homepage/Ebook";
 
 const Home = () => {
   return (
@@ -11,6 +12,7 @@ const Home = () => {
       <Hero />
       <Categories />
       <NewBooks />
+      <Ebook />
       <Featured />
       <Offer />
       <Newsletter />

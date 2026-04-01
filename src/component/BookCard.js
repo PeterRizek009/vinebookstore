@@ -1,6 +1,7 @@
 import { useStore } from "../context/StoreContext";
 
 const BookCard = ({ book }) => {
+
   const { addToCart, addToWishlist } = useStore();
 
   return (
