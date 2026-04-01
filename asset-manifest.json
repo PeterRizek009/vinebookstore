@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/vinebookstore/static/css/main.0743ab42.css",
-    "main.js": "/vinebookstore/static/js/main.f96e1a75.js",
+    "main.js": "/vinebookstore/static/js/main.5e10bbce.js",
     "index.html": "/vinebookstore/index.html",
     "main.0743ab42.css.map": "/vinebookstore/static/css/main.0743ab42.css.map",
-    "main.f96e1a75.js.map": "/vinebookstore/static/js/main.f96e1a75.js.map"
+    "main.5e10bbce.js.map": "/vinebookstore/static/js/main.5e10bbce.js.map"
   },
   "entrypoints": [
     "static/css/main.0743ab42.css",
-    "static/js/main.f96e1a75.js"
+    "static/js/main.5e10bbce.js"
   ]
 }
